@@ -3,7 +3,7 @@
     "name": {
       "type": "string",
       "required": true,
-      "label": "popup名词 in kebab-case format",
+      "label": "组件名字: ",
       "default": "vc-popup-demo"
     },
     "humpName": {
