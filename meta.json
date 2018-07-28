@@ -1,0 +1,17 @@
+{
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "popup名词 in kebab-case format",
+      "default": "vc-popup-demo"
+    },
+    "humpName": {
+      "type": "string",
+      "required": true,
+      "label": "设置Construtor : this.$popup.Demo",
+      "default": "Demo"
+    }
+  },
+  "completeMessage": "使用可以查看: \n\thttps://github.com/deepkolos/vc-popup/blob/master/doc/create-a-custom-popup.md#pagespopup-customvue"
+}
